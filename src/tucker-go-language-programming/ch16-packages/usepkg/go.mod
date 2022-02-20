@@ -1,4 +1,4 @@
-module ch16-packages/usepkg
+module tucker-go-language-programming/ch16-packages/usepkg
 
 go 1.17
 

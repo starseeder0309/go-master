@@ -1,8 +1,8 @@
 package main
 
 import (
-	"ch16-packages/usepkg/custompkg"
 	"fmt"
+	"tucker-go-language-programming/ch16-packages/usepkg/custompkg"
 
 	"github.com/guptarohit/asciigraph"
 	"github.com/tuckersGo/musthaveGo/ch16/expkg"
