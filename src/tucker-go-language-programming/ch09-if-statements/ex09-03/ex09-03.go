@@ -10,6 +10,6 @@ func main() {
 	} else if age > 30 || age < 20 {
 		fmt.Println("You are not 20s.")
 	} else {
-		fmt.Println("Best age of your life")./	
+		fmt.Println("Best age of your life.")
 	}
 }
